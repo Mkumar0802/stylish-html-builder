@@ -62,15 +62,14 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				// Real Estate Design System
-				'warm-brick': 'hsl(var(--warm-brick))',
-				'warm-brick-light': 'hsl(var(--warm-brick-light))',
-				'warm-red': 'hsl(var(--warm-red))',
-				'golden-accent': 'hsl(var(--golden-accent))',
-				'sage-green': 'hsl(var(--sage-green))',
-				'cream': 'hsl(var(--cream))',
-				'warm-gray': 'hsl(var(--warm-gray))',
-				'warm-gray-light': 'hsl(var(--warm-gray-light))'
+				// Crypto Trading Design System
+				'neon-purple': 'hsl(var(--neon-purple))',
+				'neon-pink': 'hsl(var(--neon-pink))',
+				'deep-purple': 'hsl(var(--deep-purple))',
+				'space-blue': 'hsl(var(--space-blue))',
+				'dark-bg': 'hsl(var(--dark-bg))',
+				'card-bg': 'hsl(var(--card-bg))',
+				'text-glow': 'hsl(var(--text-glow))'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
