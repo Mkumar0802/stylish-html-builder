@@ -61,7 +61,16 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				// Real Estate Design System
+				'warm-brick': 'hsl(var(--warm-brick))',
+				'warm-brick-light': 'hsl(var(--warm-brick-light))',
+				'warm-red': 'hsl(var(--warm-red))',
+				'golden-accent': 'hsl(var(--golden-accent))',
+				'sage-green': 'hsl(var(--sage-green))',
+				'cream': 'hsl(var(--cream))',
+				'warm-gray': 'hsl(var(--warm-gray))',
+				'warm-gray-light': 'hsl(var(--warm-gray-light))'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
